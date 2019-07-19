@@ -20,6 +20,7 @@ const CharacterH2 = styled.h2`
 
 const CharacterBio = styled.p`
   font-size: 20px;
+  text-shadow: 2px 2px 5px black;
 `;
 
 function CharacterCard({ name, hair_color, birth_year, gender, mass, height }) {
