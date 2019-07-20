@@ -14,10 +14,11 @@ const App = () => {
     text-align: center;
   `;
   const H1Div = styled.h1`
-    color: #443e3e;
-    text-shadow: 1px 1px 5px #fff;
+    text-shadow: 2px 2px 5px red;
     font-size: 50px;
     font-weight: 700;
+    border: 2px solid rgb(255, 165, 20);
+    border-width: 50px;
   `;
 
   return (
