@@ -3,6 +3,7 @@ import axios from "axios";
 import styled from "styled-components";
 import CharacterCard from "./CharacterCard";
 
+
 const CharactersDiv = styled.div`
   font-family: "serif", "Georgia";
   margin: 0 30px;

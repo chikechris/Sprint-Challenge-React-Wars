@@ -17,8 +17,8 @@ const App = () => {
     text-shadow: 2px 2px 5px red;
     font-size: 50px;
     font-weight: 700;
-    border: 2px solid rgb(255, 165, 20);
-    border-width: 50px;
+    ${'' /* border: 2px solid rgb(255, 165, 20);
+    border-width: 10px; */}
   `;
 
   return (
